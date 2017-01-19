@@ -1,8 +1,4 @@
-<<<<<<< HEAD
- /*
-=======
 /*
->>>>>>> d7153d2...  Darkness governor
  *  drivers/cpufreq/cpufreq_darkness.c
  *
  *  Copyright (C)  2011 Samsung Electronics co. ltd
